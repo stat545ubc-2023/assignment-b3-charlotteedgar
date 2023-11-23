@@ -1,7 +1,3 @@
-A link to a running instance of your Shiny app.
-A description of your app.
-Whatever dataset you will use, acknowledge its source clearly. Remember that we value open, reproducible science: this means that the user of your app should have direct access to the data, or know where to go to access it.
-
 Link: https://charlotte-edgar.shinyapps.io/quakes/
 
 This app allows one to visualize the quakes dataset. This dataset has 5 columns, longitude, latitude, magnitude, depth and number of stations reporting, that describe 1000 earthquakes that occured near Fiji since 1964. 
