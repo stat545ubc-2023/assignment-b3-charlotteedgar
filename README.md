@@ -11,3 +11,5 @@ This app begins by allowing one to select a range of the number of stations repo
 Then there is a scatterplot showing the longitude and latitude of the different earthquakes. This allows the user to look for patterns and clusters of the locations of the earthquakes. The colour of the points are based on the number of stations, and the general palette can be chosen based on the users preferences.
 
 Finally, there is a table showing the column means. The columns shown in the table can be chosen by the user.
+
+The dataset is from the datasets package in R and in the documentation it says that "this is one of the Harvard PRIM-H project data sets. They in turn obtained it from Dr. John Woodhouse, Dept. of Geophysics, Harvard University.". 
