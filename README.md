@@ -1,4 +1,5 @@
 Link: https://charlotte-edgar.shinyapps.io/quakes/ (assignment B3)
+
 Link: https://charlotte-edgar.shinyapps.io/quakes2/ (assignment B4)
 
 This app allows one to visualize the quakes dataset. This dataset has 5 columns, longitude, latitude, magnitude, depth and number of stations reporting, that describe 1000 earthquakes that occured near Fiji since 1964. 
