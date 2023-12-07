@@ -1,0 +1,12 @@
+name: quakes
+title: quakes
+username: charlotte-edgar
+account: charlotte-edgar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10612919
+bundleId: 7962371
+url: https://charlotte-edgar.shinyapps.io/quakes/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
